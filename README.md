@@ -7,6 +7,3 @@ radio buttons, check boxes, edit text views, nested viewgroups, etc.
 I made this app consisting of 5 questions with questions from my old C++ programming II
 test.
 
-[Screenshot of app] (./Screenshot (1).png)
-
-[Screenshot of app] (./Screenshot (2).png)
