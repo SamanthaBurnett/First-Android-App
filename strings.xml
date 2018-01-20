@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">So You Think You Can Code</string>
+    <string name="question_3">What is the name for a function declaration that does not include the function\'s body?</string>
+    <string name="question_2">In the statement list[5] = 8.9; 5 is the:</string>
+    <string name="question_1">Which of the following declares an array of 10 elements and assigns the value 5.6 to the first element?</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="question_5">Which of the following are header files?</string>
+    <string name="question_4">What purpose does a class serve?</string>
+    <string name="category_c">Category: C++</string>
+    <string name="question_1_a">float numbers[9]; numbers[0] = 5.6;</string>
+    <string name="question_1_b">float numbers[9]; numbers[1] = 5.6;</string>
+    <string name="question_1_c">float numbers[10]; numbers[0] = 5.6;</string>
+    <string name="question_1_d">float numbers[10]; numbers[1] = 5.6;</string>
+    <string name="question_2_a">size</string>
+    <string name="question_2_b">element</string>
+    <string name="question_2_c">subscript</string>
+    <string name="question_2_d">variable</string>
+    <string name="question_3_hint"><i>Please type one word answer here</i></string>
+    <string name="question_4_a">Data encapsulation</string>
+    <string name="question_4_b">Simplifying code reuse</string>
+    <string name="question_4_c">Providing a convenient way of modeling real-world objects</string>
+    <string name="question_4_d">None of the above</string>
+    <string name="question_5_a">person.header</string>
+    <string name="question_5_b">button.h</string>
+    <string name="question_5_c">animal.head</string>
+    <string name="question_5_d">vehicle.h</string>
+    <string name="question_5_e">employee.header</string>
+    <string name="question_5_f">person.head</string>
+    <string name="reset_button_text">Reset</string>
+</resources>
